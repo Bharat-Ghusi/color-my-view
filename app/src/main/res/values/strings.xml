@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ColorMyViews</string>
+    <string name="box_one">BOX 1</string>
+    <string name="box_two">BOX 2</string>
+    <string name="box_three">BOX 3</string>
+    <string name="box_four">BOX 4</string>
+    <string name="box_five">BOX 5</string>
+    <string name="box_six">BOX 6</string>
+    <string name="box_seven">BOX 7</string>
+    <string name="btn_one">Button1</string>
+    <string name="btn_two">Button 2</string>
+    <string name="btn_three">Button 3</string>
+</resources>
